@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hrittik_" target="blank"><img src="https://img.shields.io/twitter/follow/hrittik_?logo=twitter&style=for-the-badge" alt="hrittik_" /></a> </p>
 
-- 🔭 I’m currently working on **Case-Craftopia My own project**
+- 🔭 I’m currently working on **Turf-Ease My own project**
 
 - 🌱 I’m currently learning **Nextjs and Typescript**
 
